@@ -1,0 +1,335 @@
+*{
+    margin:0;
+    padding:0;
+
+}
+
+.first{margin-top: 0;
+    background-color: #7b4747;
+    width:100%;
+    height:5rem;
+display: flex;
+
+
+    
+}
+
+.hellobegin img {
+    margin-left:6rem;
+
+ height:63px;
+ width:63px;
+ margin-top: 7px;
+
+
+ background-repeat: no-repeat;
+ 
+gap:1rem;
+
+}
+
+.secondlogo img{
+    gap:1rem;
+margin:10px;
+
+margin-top: 7px ;
+    width:63px;
+    height:63px;
+
+border-radius: 4rem;
+
+
+}
+
+
+.abhacreate button{
+    cursor: pointer;
+    background-color: #912828;
+    color:aliceblue;
+    box-sizing: content-box;
+    border-radius: 2rem;
+    box-sizing: border-box;
+    padding:14px;
+margin-top: 1.1rem;
+justify-content: center;
+margin-left: 900px  ;
+cursor: pointer;
+
+}
+.secondpage .start ul{
+    display: flex;
+}
+.secondpage {
+
+    display: flex;
+
+background-color: rgb(35, 8, 144);
+height:3rem;
+width:100%;
+display: flex;
+
+
+align-items: center;
+
+}
+
+
+
+
+ul li { margin-left: 6px ;
+    justify-content: center;
+    display: flex;
+    color:beige;
+    margin:1.5rem;
+
+    font-size: larger;
+  
+
+}
+.secondpage ul li select{
+    
+    
+    color:white;
+
+border: none;
+
+    justify-content: center;
+    font-size: medium;
+background-color: rgb(13, 13, 141);
+
+    
+}
+
+
+
+ul li:hover{
+    border:2px solid rgb(217, 217, 226);
+   
+}
+
+ .abhalogin ul { 
+    display: flex;
+margin:200px;
+
+
+}
+
+.third .jaiho h1{ align-items: center;
+    margin-left: 500px;
+    
+color:blue;
+
+}
+.jaiho h2{
+
+    align-items: center;
+    margin-left: 300px;
+    
+
+
+}
+.make{
+margin-top:88px;
+display: flex;
+margin-left:300px;
+
+}
+
+.fourth .makeitbox{
+
+    margin-left:155px;
+margin-top:66px;
+
+    width:300px;
+    height:250px;
+    border:5px solid red;
+    margin:10px;
+
+border-radius: 3rem;
+
+cursor: pointer;
+
+
+}
+ 
+.makeitbox pre{
+
+    text-align: center;
+    font-style: italic;
+    
+
+
+}
+
+
+.makeitbox pre h4{
+    color:orange;
+
+}
+
+.makeitbox img{
+    margin-left:44px;
+
+    width:200px;
+    height:200px;
+
+
+}
+
+.makeitbox:hover{
+    box-sizing: border-box;
+    border:2px solid rgb(232, 221, 13);
+
+}
+.makeone img{
+    margin-left:44px;
+
+    width:200px;
+    height:200px;
+
+
+}
+
+
+.back .makeone{
+    width:300px;
+    margin-left:300px;
+
+    height:250px;
+    border:5px solid red;
+    margin:10px;
+
+    border-radius: 3rem;
+gap:5rem;
+margin-left: 310px;
+margin-top: 1rem;
+
+cursor: pointer;
+
+
+}
+.makeone:hover{
+    box-sizing: border-box;
+    border:2px solid rgb(232, 221, 13);
+
+}
+
+.makeone pre{
+    text-align: center;
+    font-style: italic;
+}
+.makeone pre h4{
+    color:orange;
+
+}
+.fifth{
+    background-color: rgb(240, 245, 240);
+    width:100%;
+height:3rem;
+
+}
+
+
+.abhalog{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin-top: 12px;
+    font-size: large;
+    
+}
+.foot{
+
+
+
+    display: flex;
+    background-color: red;
+    height:7rem;
+    width:100%;
+    gap:3rem;
+
+
+
+}
+.foot .curious img{
+
+    border-radius: 2rem;
+margin-left: 45px ;
+    display:flex;
+
+    width:100px;
+height:100px;
+
+}
+.foot .curious img{
+
+
+    display:flex;
+
+
+
+
+}
+.last2{
+    display: flex;
+    margin-left:150px;
+    justify-content: space-evenly;
+justify-items: space-evenly;
+gap:12rem;
+
+
+}
+.ground .curious img {
+    
+    display:flex;
+
+}
+.curious img{
+    display:flex;
+
+}
+
+.last{
+display: flex;
+margin-top: 0;
+    background-color: blue;
+    width:100%;
+    height:40rem;
+    color:rgb(209, 205, 205);
+
+}
+
+.contact{
+    color:black;
+
+    display: flex;
+}
+
+
+.dev2{
+
+    display:flex;
+    color:black;
+    
+    display: flex;
+}
+
+
+
+.last4 img{
+    
+display: flex;
+    width:200px;
+    height:90px;
+    margin-left: 33px;
+
+}
+
+.app{
+    display: flex;
+}
+
+
+
+
+
